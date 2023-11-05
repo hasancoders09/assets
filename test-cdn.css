@@ -1,11 +1,4 @@
 /* Announcemnto bar css strat */
-.announcemnto-bar {
-    background: #9adbe8;
-    padding: 8px 25px;
-}
-.section-display {
-    display: none;
-}
 .section-display h2{
     display: none;
 }
